@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaldi&display=swap');
+*{font-family: 'Jaldi', sans-serif;}
+body{background:url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURFRMYHSggGBolGxMVITEhJSkrLi4uFx8zODM4Nyg5LisBCgoKDQ0OFRAPFSsdFRkrLS0rKystKystKys3KysrLS0tNy0tKy03LSsrNy0tLS0tLS0rLS0rNy03KysrKystN//AABEIAKgBLAMBIgACEQEDEQH/xAAaAAEBAQEBAQEAAAAAAAAAAAAAAQIDBAUH/8QAIhABAQEBAAEFAAMBAQAAAAAAAAECERIDITFBURNhcbEE/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAECAwQF/8QAGhEBAQEBAQEBAAAAAAAAAAAAAAERAhIhMf/aAAwDAQACEQMRAD8A/TqQqPC+q0J1eooqdOgqJ1Ohj0/+e9nPx6Jj9eX0pz3+3px6nfa+1deb8efuffjpIqK25ggo0rlNe7pNGpYqoCKhRRmhRFBAVRARoBAZrSAzUWoqxkWojSgAsajMagzXzKhUed7IAuZ0G859v9ZrqxVZlYb9PPb/AFGbHo9P0+QkXrrINTLUituNreNfTbi6Z11uVixpjd+l1rjC1I1lUz8KFbzppyamhMaAVEqNM2IACqACNRUgCoCDNicaoKzxnjbIoABFiLIJXy6LYnHme34OmIznNdWozaM6aSqymJ9urMaixmr08qgqNeVP5ee7NvHK3qW4TnXqzry91eXOuV6ca61OtTrnHQBtyAAJW5XMUx1ElEQsRpLAQFUYqzRplFb8llcwMdUYlrYInFoCcRpBTixSDLw6z+MO1jO5JHGx6JWMqxPUamoNYoALGoxGosZqg5610tJE1rpEVhuDXp6svYysaiV68blaeSXnvHo9P1O/66zrXHrnGwGmURUZqukUGmAAAIIM6Zb0wLBZCRqQUkUS0QQBQgQFXrKwSvLq893DWurvXay42vRIwAy6LLW5q/bMiiVuVvLiXdns1qXnXTevphjyPJm08trGZW1gEBUXq9ZOKj0+n6vfa/P/AFq15eK16rHma731In8v9OLUNMj0zazUcxvXPHYcVmr+mpjrFc5pfKiY1WJF7Vgv4RQUGNtsa+QgII0vSVAHThIma1BivlhYPO9mMNSEihQAEtYW3qDUWRuRg6mljbWa5+R5LrOV2QzVVkAa1FIhDUxqKAjqqRXRzAAWLKkWKjUVIqoKgCuevl0c6EAEaAAVvNYaGa+bazaVHnexVROir06ggAIoEjcyuJazI1IouM2tT4UyKyAKgQVSrBI1BFl46S9chqVmx2Gc660rK5aSK0ysVIqpQABONMoCKgAArQQGa+ZYhajzvdCgIALICdJUsQHXqsQaZxsZ6sojpFJFVlOHFFRG4w3ATxJlVEqeJytjWJrHGs1Wsz7JEtaFG2BpJl0mYsS1k46C4zrHjWbHVz2lJWaiiNIKAStRONxUr5FRrWL+MvM9soEzb8Ok9L9MW2RiRp1mIeEXy5+nJm4/Hfwn4vhPxfJ6ebLUje5PwlRrdSZakFGbVioqoAALEXKo0AIsVlrPusSrmNg2wNyObeKqdNxpMq05qIKKxr5bY18pVjNiNiKyLw4CRuMxoSvDU4pXJ6GQEVYrLUCia1xbeOVvS0kQFjLosa4hKRirwhaRRQBABRUAFbz7M5jTUjNrcqubc00y0sSNSKzXSVWI01HNRBRepSolWAqIoJ0AWIoV5LGag5O6AIosQBneusgy2NSAAsAiCwFBUFZVAAOgDrDijTCcOKKOnp/DYNRzv6sUFZUBpEAZU6gCgAKQAr//2Q==') ; }
+.img{text-align: center;}
+.img>.ft{
+    border-radius: 50%;
+    border: 3px outset gray;
+}
+.p{background-color: rgb(255, 235, 219);}
+.qw span{background-color: cornsilk;}
+.w {background-color: cornsilk;
+    border: 2px solid black;
+}
+.qw{color: chocolate;
+    
+}
+.qw{text-align: center;}
+.ty{text-align: center;}
+.p{text-align: center;}
+.p{border: 3px outset rgb(255, 235, 219);}
